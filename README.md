@@ -1,7 +1,7 @@
 <h1 align="center">Saksham Mahajan</h1>
 
 <p align="center">
-  <img src="images/banner.gif" alt="Banner GIF" width="800">
+  <img src="images/demo.gif" alt="Banner GIF" width="800">
 </p>
 
 <p align="center">
